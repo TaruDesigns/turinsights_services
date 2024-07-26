@@ -1,0 +1,7 @@
+services:
+  pgadmin:
+    ports:
+      - "5050:5050"
+  db:
+    ports:
+      - "5432:5432"
